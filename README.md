@@ -4,6 +4,8 @@
 ## 简介
 本项目的目标是增强HoshinoBot（直接调的话也能给其它nonebot项目用）的拉黑方法，实现全局化、持久化
 
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 ## 目标
 * 及时解除用户拉黑
 * 简洁优雅的代码
